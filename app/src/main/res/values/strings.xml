@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GK</string>
+    <string name="quiz_text">Quiz</string>
+    <string name="truebutton">True</string>
+    <string name="falsebutton">False</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="_1_200">1/200</string>
+    <string name="score">Score:</string>
+    <string name="question">Question</string>
+    <string name="correctAnswer">Correct</string>
+    <string name="wrongAnswer">Wrong</string>
+    <string name="textview">TextView</string>
+    <string name="play">Start New</string>
+    <string name="resume">Resume</string>
+    <string name="about">About</string>
+    <string name="about_page">App Name:</string>
+    <string name="highscore_0">HighScore:0</string>
+</resources>
